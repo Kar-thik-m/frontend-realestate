@@ -1,0 +1,1 @@
+export const backendUrl = "https://backend-realestate-bm8l.onrender.com"
